@@ -1,7 +1,7 @@
 {
     "name": "hazre's vpm package listing",
     "id": "dev.hazre",
-    "url": "https://hazre.github.io/vpm-repos/index.json",
+    "url": "https://hazre.github.io/vpm-listing/index.json",
     "author": {
         "email": "hazre@users.noreply.github.com",
         "name": "hazre",
